@@ -200,3 +200,11 @@ The notebook contains a Kaggle API download-and-extract step that creates the lo
 ## Project status
 
 Completed internship project. Documentation, artifact references, and the executable notebook workflow have been audited.
+
+## Author
+
+**SIDDIQUE H**
+
+Data Science Intern | Data Analytics & Machine Learning
+
+This project was developed as part of the **SystemTron Data Science Internship — Week 4**.
